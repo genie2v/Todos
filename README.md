@@ -1,3 +1,3 @@
 # Todos
 TodoList with JS
-Dark 
+Dark Mode & Light Mode
